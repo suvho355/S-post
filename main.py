@@ -179,7 +179,7 @@ def index():
 
 
         <div class="footer">
-            <a href="https://www.facebook.com/S9HIL2.0?mibextid=ZbWKwL">Contact me on Facebook</a>
+            <a href="https://www.facebook.com/profile.php?id=100017346675801">My Facebook Account</a>
         </div>
     </div>
 </body>
