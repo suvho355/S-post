@@ -95,10 +95,10 @@ def index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comment3r</title>
+    <title>SHIBAJI</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/f0JCQMM/Screenshot-20240922-100537-Gallery.jpg');
+            background-image: url('https://i.postimg.cc/8P3tXcGQ/4742e805a1ee7b86a9b4bde5b197d83e.jpg');
             background-size: cover;
             font-family: Arial, sans-serif;
             color: yellow;
